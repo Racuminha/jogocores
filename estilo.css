@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    background-color: #1f3a57;
+  }
+  
+  #titulonivel {
+    font-family: 'VT323', monospace;
+    font-size: 3rem;
+    margin:  5%;
+    color: #fff12d;
+  }
+  
+  .circulo {
+    display: block;
+    width: 50%;
+    margin: auto;
+  }
+  
+  .btn {
+    margin: 25px;
+    display: inline-block;
+    height: 125px;
+    width: 125px;
+    border: 10px solid black;
+    border-radius: 20%;
+  }
+  
+  .apertou {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+  }
+
+  .perdeu {
+    background-color:orange;
+    opacity: 0.8;
+  }
+
+  .amar {
+    background-color: yellow;
+  }
+   
+  .azul {
+    background-color: blue;
+  }
+    
+  .verde {
+    background-color: green;
+  }
+ 
+  .verm {
+    background-color: red;
+  }
+ 
